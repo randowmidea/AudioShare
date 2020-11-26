@@ -36,8 +36,9 @@
     + 声音的属性不一样，自然音，
     + 集中的分类
     
-+ 蜻蜓
-+ 荔枝FM
-+ 喜马拉雅
++ 蜻蜓 https://www.qingting.fm/
++ 荔枝FM https://www.lizhi.fm/
++ 喜马拉雅 
++ 猫耳FM https://www.missevan.com/
   
 晚安故事：https://www.zhihu.com/question/31092350
